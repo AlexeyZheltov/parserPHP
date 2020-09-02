@@ -1,0 +1,8 @@
+2011-07-17 01:33:11 MySQL error: 
+      Table 'studwave.useraaaaaaaas_msg' doesn't exist
+      Query: 
+      SELECT * FROM useraaaaaaaas_msg
+            WHERE to_id='1' AND
+                  delete_to=0
+      File: Z:\home\StudWave.ru\www\modules\users\message\read_controller.php
+      Line: 116
